@@ -33,24 +33,6 @@
 - **Storage**: PlayerPrefs (for audio & scoring settings)  
 - **Scene Management**: UnityEngine.SceneManagement  
 
-## 📂 Project Structure
-StaySafe/
-├── Assets/
-│ ├── Scenes/
-│ │ ├── MainMenuScene.unity
-│ │ └── GameScene.unity
-│ ├── Scripts/
-│ │ ├── MainMenuUI.cs
-│ │ ├── VolumePanelToggle.cs
-│ │ ├── VolumeMenuUI.cs
-│ │ ├── BackgroundMusic.cs
-│ │ ├── ScoreManager.cs
-│ │ └── GameManager.cs
-│ ├── Prefabs/ # 障碍物、玩家、UI 面板预制件
-│ ├── Sprites/ # 角色和障碍物贴图
-│ └── UI/ # Canvas 和面板预制件
-└── README.md
-
 https://qifan75.itch.io/2d-endless-runner
 
 
